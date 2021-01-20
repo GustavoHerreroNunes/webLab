@@ -45,6 +45,6 @@ Se você tem alguma ideia, sugestão, ou viu algum erro, você pode me contar [a
 
 [figma]: https://www.figma.com/
 
-[home-page-img]: https://github.com/GustavoHerreroNunes/webLab/assets/images/layout/home-page.png
+[home-page-img]: https://github.com/GustavoHerreroNunes/webLab/blob/main/assets/images/layout/home-page.png
 
 [issues]: https://github.com/GustavoHerreroNunes/webLab/issues
