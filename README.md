@@ -6,11 +6,11 @@
 
 ## Indíce :bookmark_tabs:
 
-:cd: [Descrição](#descrição)
+:cd: [Descrição](#descrição-clipboard)
 
-:cd: [Layout da Aplicação](#layout-da-aplicação)
+:cd: [Layout da Aplicação](#layout-da-aplicação-art)
 
-:cd: [Contribuir](#contribuir)
+:cd: [Contribuir](#contribuir-gift)
 
 ## Descrição :clipboard:
 
